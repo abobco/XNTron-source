@@ -1,5 +1,5 @@
 # XNTron-source
-#### Work in progress SDL_2 multiplayer game
+#### Work in progress SDL2 multiplayer game
 
 # Required linked Development Libraries 
 #### SDL2 https://www.libsdl.org/download-2.0.php
