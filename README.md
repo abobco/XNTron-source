@@ -10,7 +10,7 @@
 
 #### Requires 2 usb controllers to play
 
-# Made with the help of these tutorials
+### Made with the help of these tutorials
 #### https://github.com/MetaCipher/the-sdl-engine
 #### http://lazyfoo.net/tutorials/SDL/index.php
 #### www.SDLTutorials.com
