@@ -1,7 +1,7 @@
 # XNTron-source
 Work in progress SDL_2 multiplayer game
 
-Requires SDL_2, SDL_image, SDL_ttf, and SDL_net linked to compile
+Requires SDL_2, SDL_image, SDL_ttf, SDL_mixer, and SDL_net linked to compile
 
 Requires 2 usb controllers to play
 
