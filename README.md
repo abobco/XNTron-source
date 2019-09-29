@@ -1,5 +1,5 @@
 # XNTron-source
-2 player light cycle game with a few twists
+2 player light cycle game with a few twists.
 
 **Requires 2 usb controllers to play**
 ## Required linked Development Libraries 
