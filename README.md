@@ -1,6 +1,6 @@
 # XNTron-source
 2 player light cycle game with a few twists.
-
+![gif](https://github.com/abobco/XNTron-source/blob/master/xnTronDemo1.gif)
 **Requires 2 usb controllers to play**
 ## Required linked Development Libraries 
 * [SDL2](https://www.libsdl.org/download-2.0.php) : general c++ game development library
