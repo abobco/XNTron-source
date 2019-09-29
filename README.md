@@ -1,5 +1,5 @@
 # XNTron-source
-#### Work in progress SDL2 multiplayer game
+#### 2 player light cycle game with a few twists
 
 # Required linked Development Libraries 
 #### SDL2 https://www.libsdl.org/download-2.0.php
